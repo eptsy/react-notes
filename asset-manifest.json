@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-notes/static/css/main.f44a0a25.css",
+    "main.js": "/react-notes/static/js/main.11f4b272.js",
+    "static/media/sticky-note.png": "/react-notes/static/media/sticky-note.957b420a7fa19457a9d1.png",
+    "index.html": "/react-notes/index.html",
+    "main.f44a0a25.css.map": "/react-notes/static/css/main.f44a0a25.css.map",
+    "main.11f4b272.js.map": "/react-notes/static/js/main.11f4b272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44a0a25.css",
+    "static/js/main.11f4b272.js"
+  ]
+}
